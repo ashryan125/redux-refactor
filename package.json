@@ -1,0 +1,23 @@
+{
+    "name": "online-shop",
+    "version": "1.0.0",
+    "description": "demo online shop with Redux global state and strip integration",
+    "main": "server/server.js",
+    "scripts": {
+      "start": "node server/server.js",
+      "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
+      "install": "cd server && npm i && cd ../client && npm i",
+      "seed": "cd server && npm run seed"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ashryan125/online-shop.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://github.com/ashryan125/online-shop#readme",
+    "devDependencies": {
+      "concurrently": "^6.2.1"
+    }
+  }
