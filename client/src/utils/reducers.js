@@ -1,5 +1,4 @@
-import { NetworkStatus } from "@apollo/client";
-import { useReducer } from "react";
+import React, { useReducer } from "react";
 
 import {
   UPDATE_PRODUCTS,
