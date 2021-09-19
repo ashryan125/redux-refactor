@@ -6,7 +6,7 @@ import {
   ApolloProvider,
   createHttpLink,
 } from "@apollo/client";
-// import { setContext } from "@apollo/client/link/context";
+import { setContext } from "@apollo/client/link/context";
 // import { StoreProvider } from "./utils/GlobalState";
 
 import { Provider } from "react-redux";
