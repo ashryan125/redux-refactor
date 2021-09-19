@@ -43,7 +43,7 @@ Stripe Checkout Page
 
 ## Links
 
-* [Deployed App](https://#.herokuapp.com/)
+* [Deployed App](https://ecommerce-demo-redux.herokuapp.com/)
 * [GitHub Repo](https://github.com/ashryan125/redux-refactor)
 * [My Portfolio](https://ashryan125.github.io/full-stack-portfolio/)
 
